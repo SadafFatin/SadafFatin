@@ -45,7 +45,7 @@
 -   [Insight-Pro Mobile app](https://iprodemo.insightpro.com/api/containers/mobile/insightpro.apk)
 -   [Enim Mobile App](https://enim.nnsop.gov.bd/login)
 -   [Tender Bazar](https://play.google.com/store/apps/details?id=com.tenderbazar.synesisIt)
--   [e-stipend]((https://play.google.com/store/apps/details?id=com.synesisIt.pmeat))
+-   [e-stipend](https://play.google.com/store/apps/details?id=com.synesisIt.pmeat)
 
 
 
