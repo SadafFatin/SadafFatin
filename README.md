@@ -35,21 +35,16 @@
 
 <h3 align="center">Web and PWA Projects with angular</h3>
 
--   [Insight Pro](https://www.insightpro.com/)
-
+-   [Insight Pro](https://iprodemo.insightpro.com/#/auth/login)
 -   [Nutrition Profile Bangladesh](https://nutritionprofile.nnsop.gov.bd/)
-
--   [Mukto]([https://nutritionprofile.nnsop.gov.bd/](https://mukto-2a927.web.app/)https://mukto-2a927.web.app/)
-
--   [Mukto]([https://nutritionprofile.nnsop.gov.bd/](https://mukto-2a927.web.app/)https://mukto-2a927.web.app/)
-
+-   [Mukto](https://mukto-2a927.web.app/)
+-   
 
 <h3 align="center">Cross platorm mobile apps for ios and android with ionic-angular, capacitor, cordova</h3>
-
+-   [Insight-Pro Mobile app] (https://iprodemo.insightpro.com/api/containers/mobile/insightpro.apk) 
 -   [Enim Mobile App](https://enim.nnsop.gov.bd/login)
--   [Tender Bazar]([https://www.insightpro.com/](https://play.google.com/store/apps/details?id=com.tenderbazar.synesisIt))
-
--   [e-Stipend]([https://nutritionprofile.nnsop.gov.bd/](https://play.google.com/store/apps/details?id=com.synesisIt.pmeat))
+-   [Tender Bazar](https://play.google.com/store/apps/details?id=com.tenderbazar.synesisIt)
+-   [e-Stipend](https://play.google.com/store/apps/details?id=com.synesisIt.pmeat)
 
 
 
