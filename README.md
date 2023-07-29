@@ -35,11 +35,11 @@
 
 <h3 align="center">Web and PWA Projects with angular</h3>
 
--   [Alpha Recon] (https://securecon.alpharecon.com/)
+-   [Alpha Recon](https://securecon.alpharecon.com/)
 -   [Insight Pro](https://iprodemo.insightpro.com/#/auth/login)
 -   [Nutrition Profile Bangladesh](https://nutritionprofile.nnsop.gov.bd/)
 -   [Mukto](https://mukto-2a927.web.app/)
--   [Q-zontec] CRM(https://crm.qzonetech.com/login)
+-   [Q-zontec CRM](https://crm.qzonetech.com/login)
 
 
 
