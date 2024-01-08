@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadaffatin" alt="sadaffatin" /></a> </p>
 
-- 🔭 I’m currently working on [Insight Pro](https://www.insightpro.com/)
+- 🔭 I’m currently working on [Insight Pro](https://www.insightpro.com/), [Alpha Recon](https://alpharecon.com/)
 
 - 🌱 I’m currently learning **Jetpack and Kotlin Compose, Graph QL, Node js,**
 
