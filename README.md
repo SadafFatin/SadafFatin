@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadaffatin" alt="sadaffatin" /></a> </p>
 
 - 🔭 I’m currently working on [Insight Pro](https://www.insightpro.com/), [Alpha Recon](https://alpharecon.com/)
-
+- 🔭 Recent Projects [Nutrition Profile](https://nutritionprofile.nnsop.gov.bd/) [SecuRecon](https://apps.apple.com/us/app/securecon/id1479354336) [Mukto](https://mukto-2a927.web.app/dashboard) 
 - 🌱 I’m currently learning **Jetpack and Kotlin Compose, Graph QL, Node js,**
 
 - 👨‍💻 All of my projects are available at [https://sadaffatin.creatorlink.net/](https://sadaffatin.creatorlink.net/)
